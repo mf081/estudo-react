@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <div>
       {/* <h1>Mateus Fernando</h1> */}
-      <Titulo></Titulo>
-      <Quadrado></Quadrado>
+      <Titulo text="Olá" name="Mateus"/>
+      <Quadrado/>
     </div>
   );
 }

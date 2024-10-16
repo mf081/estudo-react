@@ -1,0 +1,4 @@
+@cep=55330000
+
+
+GET https://viacep.com.br/ws/52140160/json/
